@@ -1,0 +1,57 @@
+body {
+    background:url(/1674018785265.jpg);
+    background:cover;
+    color:black;
+    margin:0;
+    display:flex;
+   justify-content:center;
+   align-items:center;
+   height:100vh;
+   
+   
+}
+.sps{
+   box-shadow:10px 16px 10px rgba(0,0,0,.6);
+   padding:30px;
+   border-radius:25px;
+   width:27vh;
+   background:url(/1674018376427.jpg);
+   
+   
+   
+}
+.cs{
+   background:lightblue;
+   border-radius:8px;
+   padding:10px;
+}
+.us{
+   background:lightblue;
+   border-radius:8px;
+   padding:10px;
+   
+}
+
+.rs{
+   background:lightblue;
+   border-radius:8px;
+   padding:10px;
+}
+.stone{
+   background:black;
+   color:white;
+   border-radius:10px;
+   cursor:pointer;
+}
+.paper{
+   background:black;
+   color:white;
+   border-radius:10px;
+   cursor:pointer;
+}
+.scissors{
+   background:black;
+   color:white;
+   border-radius:10px;
+   cursor:pointer;
+}
